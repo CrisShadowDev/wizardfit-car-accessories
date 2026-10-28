@@ -1,0 +1,46 @@
+{
+  "store": "WizardFit Car Accessories",
+  "tier": "Fast to semi-fast",
+  "products": [
+    {
+      "name": "Chrome Dash Organizer",
+      "desc": "Dash tray, chrome trim.",
+      "price_planning": "$39"
+    },
+    {
+      "name": "Car Seat Cozy Cover",
+      "desc": "Seat cover, cozy.",
+      "price_planning": "$59"
+    },
+    {
+      "name": "LED Interior Kit",
+      "desc": "Neon interior LEDs.",
+      "price_planning": "$45"
+    },
+    {
+      "name": "Car Cooler / Warmer",
+      "desc": "12V cooler warmer.",
+      "price_planning": "$69"
+    },
+    {
+      "name": "Phone Mount Chrome",
+      "desc": "Magnetic mount.",
+      "price_planning": "$29"
+    },
+    {
+      "name": "Trunk Organizer Set",
+      "desc": "Trunk bins.",
+      "price_planning": "$49"
+    },
+    {
+      "name": "Steering Wheel Cover",
+      "desc": "Chrome / neon cover.",
+      "price_planning": "$35"
+    },
+    {
+      "name": "Car Cleaning Kit",
+      "desc": "Interior cleaning set.",
+      "price_planning": "$39"
+    }
+  ]
+}
